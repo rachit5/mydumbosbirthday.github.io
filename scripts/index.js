@@ -455,7 +455,7 @@ x = setInterval(function() {
     head.style.display = 'none';
     count.style.display = 'none';
     giftbox.style.display = 'none';
-    window.location.replace("file:///F:/DumboBday/my-dumbo-bday/happy-birthday/index.html");
+    window.location.replace("https://rachit5.github.io/happy-birthday/");
 
     clearInterval(x);
     let merrywrap = document.getElementById('merrywrap');
