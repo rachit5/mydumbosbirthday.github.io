@@ -455,7 +455,7 @@ x = setInterval(function() {
     head.style.display = 'none';
     count.style.display = 'none';
     giftbox.style.display = 'none';
-    window.location.replace("https://rachit5.github.io/happy-birthday/");
+    window.location.replace("https://rachit5.github.io/happy-birthday");
 
     clearInterval(x);
     let merrywrap = document.getElementById('merrywrap');
