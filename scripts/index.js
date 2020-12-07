@@ -448,6 +448,8 @@ x = setInterval(function() {
     ctx.font = opts.charSize + 'px Verdana';
   });
 
+  debugger;
+
   if (distance > 0) {
     head.style.display = 'initial';
     count.style.display = 'initial';
