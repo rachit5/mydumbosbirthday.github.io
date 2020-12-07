@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Dec 17, 2020',
+  birthdate: 'Dec 5, 2020',
   name: 'Ara'
 };
 
@@ -447,8 +447,6 @@ x = setInterval(function() {
 
     ctx.font = opts.charSize + 'px Verdana';
   });
-
-  debugger;
 
   if (distance > 0) {
     head.style.display = 'initial';
