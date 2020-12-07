@@ -6,7 +6,7 @@ const canvasC = document.getElementById('c');
 const config = {
   birthdate: 'Dec 5, 2020',
   name: 'Ara'
-};
+}; 
 
 function hideEverything() {
   head.style.display = 'none';
